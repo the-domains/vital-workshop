@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.7914894
+color:
+  lightness: 0.8183286
+  brandStrength: 0.8142673
+  saturation: 0.4726723
+  rhythmicContrast: 0.2481526
+  brandColors:
+    - '#FFFFFF'
+    - '#91B23D'
+    - '#545653'
+    - '#D6D6D6'
+    - '#C7D89A'
+name: Vital Workshop
